@@ -26,6 +26,7 @@ This project involves analyzing bikeshare data to predict trip demand and provid
     ```bash
     git clone https://github.com/iauger/bikeshare-notebook.git
     ```
+2. Access the bikeshare dataset and download to run locally [bikeshare data](https://github.com/iauger/bikeshare-notebook/releases/download/v1.0.0/bikeshare_trip_data.csv)   
 2. Open the notebooks in Jupyter or VSCode and run the cells to reproduce the analysis.
 
 ## Results and Insights
