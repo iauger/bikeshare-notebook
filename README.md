@@ -13,7 +13,7 @@ This project involves analyzing bikeshare data to predict trip demand and provid
 
 ## Notebooks in the Repository
 
-- **[Bikeshare Notebook.ipynb](./Bikeshare%20Notebook.ipynb):** The main analysis notebook containing the full data processing, modeling, and insights.
+- **[Bikeshare Notebook.ipynb]([./Bikeshare%20Notebook.ipynb](https://github.com/iauger/bikeshare-notebook/blob/master/Portfolio%20Projects/Bikeshare%20Notebook.ipynb):** The main analysis notebook containing the full data processing, modeling, and insights.
 
 ## Data Sources
 
